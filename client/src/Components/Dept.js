@@ -1,5 +1,7 @@
 const Departments = () => {
-  return <div>Departments</div>;
+  return <div>Departments
+    my first update in github
+    </div>;
 };
 
 export default Departments;
