@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      <h3>Fatma Alajmi - 66j2049 - 1 update</h3>
+      <h3>Fatma Alajmi - 66j2049 - 2nd update</h3>
     </div>
   );
 };
